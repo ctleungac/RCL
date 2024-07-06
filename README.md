@@ -1,2 +1,3 @@
 # RCL
-Code for "Multi-Task Generalizable Communication: A Novel Framework for Semantic Communication"
+Code for "Rethinking Task-Oriented Communication via Contrastive Learning: An Information Theoretic Approach"
+
